@@ -1,0 +1,4 @@
+#Fri Sep 01 18:28:22 SAST 2023
+base.0=C\:\\Users\\Tlhogi\\Documents\\Codetribe\\TODO_CLI\\TODO_CLI\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
